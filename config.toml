@@ -1,0 +1,17 @@
+baseurl = "https://www.jointheresistance.io/"
+title = "Join The Resistance"
+languageCode = "en-us"
+theme = "dimension"
+
+[Permalinks]
+	posts = "/:year/:month/:filename/"
+
+[Params]
+abouttext = "About Us"
+
+title = "Join The Resistance"
+description = "Tools for Instigators"
+logo = "fa-fire"
+copyright = "2017 JoinTheResistance.io"
+
+
