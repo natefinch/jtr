@@ -6,11 +6,11 @@ draft = false
 top=true
 +++
 
-JoinTheResistance.io began as a way for members of <a
+This site began as a way for organizers from <a
 href="https://indivisibleharvard.org">Indivisible Harvard</a> to share their
 experience in organizating and technology, to help other similar groups hit the
-ground running.  They bring together decades of computer programming
-experience with decades of group facilitation and organization experience.
+ground running.  They bring together decades of computer programming experience
+with decades of group facilitation and organization experience.
 
-This key mix is crucial for making small and medium sized political action
+This key mix is crucial for making small to medium sized political action
 groups successful.
