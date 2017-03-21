@@ -7,7 +7,7 @@ top=true
 +++
 
 This site began as a way for organizers from <a
-href="https://indivisibleharvard.org">Indivisible Harvard</a> to share their
+href="https://indivisibleharvard.org" target="_blank">Indivisible Harvard</a> to share their
 experience in organizating and technology, to help other similar groups hit the
 ground running.  They bring together decades of computer programming experience
 with decades of group facilitation and organization experience.

@@ -11,3 +11,6 @@ date = "2017-03-05T23:23:58-05:00"
 
 So you looked around and said "someone should do something".  If you're here,
 it's because you have a sneaking suspicion that *someone* is you.
+
+Welcome to the resistance.
+
